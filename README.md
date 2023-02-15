@@ -26,7 +26,7 @@ In order to run this  application, the user must open the  index.html  file in t
 
 ## Usage
 [App screenshot](./App%20screenshot.PNG)
-
+Deployed Application: https://derrick-edowen.github.io/Weather-Dashboard/
 ## Credits
 N/A
 ## License
